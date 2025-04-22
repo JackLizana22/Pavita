@@ -1,4 +1,5 @@
 import streamlit as st
+st.imagen("pavita.png")
 
 st.title("Calculadora de Gases Ideales (sin cambio de moles)")
 st.markdown("Usamos la fórmula: **P·V / T = constante** (n constante)")
